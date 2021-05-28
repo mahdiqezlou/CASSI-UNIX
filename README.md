@@ -7,3 +7,11 @@ The purpose of this tutorial is to provide an introduction to the UNIX command l
 Drew Newman ([anewman@carnegiescience.edu]), Jason Williams (jewilliams@carnegiescience.edu), and Mahdi Qezlou (mqezlou@carnegiescience.edu) will be holding ‘office hours’ to answer all your UNIX questions and any trouble you may have working through this tutorial. The office hours will be 9:30 am and 2 pm PDT on Tuesday, June 16. You can also email us any time. 
 
 To get started, let’s open a Terminal.
+
+## Opening a Terminal in Mac OS X
+
+There are many ways to open a terminal on a computer running Mac OS X. One way is to use the Finder. Click on the desktop, then on the ‘Go’ menu and locate ‘Utilities’:
+
+
+![Image 1]()
+
